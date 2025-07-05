@@ -1,4 +1,4 @@
-1.Intoduction:
+1.Intoduction:<br>
 A Personal Portfolio project is a website that showcases your skills, achievements, projects, and personal/professional background. It’s especially useful for students, developers, designers, and job seekers to present their work and leave a lasting impression on potential employers or collaborators.
 
 2.Tech Stack Used:<br>
